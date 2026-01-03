@@ -25,3 +25,5 @@ This is **important**.
 This is *emphasized*.
 
 [Markdown Lesson]([url](https://agentfactory.panaversity.org/docs/Markdown-Prompt-Context-Engineering/markdown-language-of-ai/introduction#what-is-markdown))
+
+![alt text](image-url)
