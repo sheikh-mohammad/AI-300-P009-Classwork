@@ -8,3 +8,7 @@
 - First item - unordered list
 - Second item
 - Third item
+
+* First item
+* Second item
+* Third item
