@@ -12,3 +12,7 @@
 * First item
 * Second item
 * Third item
+
+10. First step
+2. Second step
+3. Third step
