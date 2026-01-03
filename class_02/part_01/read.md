@@ -16,3 +16,7 @@
 10. First step
 2. Second step
 3. Third step
+
+```
+"This program should greet the user and show the current time."
+```
