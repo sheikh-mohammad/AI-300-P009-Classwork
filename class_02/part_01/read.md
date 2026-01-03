@@ -22,3 +22,4 @@
 ```
 
 This is **important**.
+This is *emphasized*.
