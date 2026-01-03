@@ -23,3 +23,5 @@
 
 This is **important**.
 This is *emphasized*.
+
+[link text](url)
